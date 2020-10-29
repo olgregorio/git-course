@@ -1,3 +1,6 @@
 hello
 world
 NEW ADDITION
+
+
+force a conflict
